@@ -1,4 +1,14 @@
-openai
+fastapi
+uvicorn[standard]
 langchain
-faiss-cpu
+langchain_community
+langchain-huggingface
+langchain_openai
+PyPDF2
 tiktoken
+python-dotenv
+sympy
+wikipedia
+faiss-cpu
+transformers
+sentence-transformers
